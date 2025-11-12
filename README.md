@@ -3,6 +3,7 @@
 Jawor AI to nowoczesna aplikacja webowa stworzona w **React**, **Node.js** i **Express**, oferująca inteligentnego asystenta AI z funkcjami rejestracji, logowania oraz opcją premium.
 
 >  Uwaga: Aplikacja jest obecnie w **trybie development**, a zakup premium jest symulowany za pomocą testowej karty.
+> Sprawdź apke: [Jawor AI](https://jawor-ai.vercel.app)
 
 ---
 
@@ -91,7 +92,8 @@ MIT License © Szymon
 
 Jawor AI is a modern web application built with **React**, **Node.js**, and **Express**, offering an AI assistant with user registration, login, and premium features.
 
-> ⚠️ Note: The application is currently in **development mode**, and premium purchase is simulated using a test card.
+>  Note: The application is currently in **development mode**, and premium purchase is simulated using a test card.
+> Check out the live app: [Jawor AI](https://jawor-ai.vercel.app)
 
 ---
 
