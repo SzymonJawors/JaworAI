@@ -31,8 +31,8 @@ Jawor AI to nowoczesna aplikacja webowa stworzona w **React**, **Node.js** i **E
 1. Sklonuj repozytorium:
 
 ```
-git clone https://github.com/twoj-uzytkownik/jawor-ai.git
-cd jawor-ai
+git clone https://github.com/SzymonJawors/JaworAI.git
+cd JaworAI
 ```
 
 2. Zainstaluj zależności frontend i backend:
@@ -120,8 +120,8 @@ Jawor AI is a modern web application built with **React**, **Node.js**, and **Ex
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/jawor-ai.git
-cd jawor-ai
+git clone https://github.com/SzymonJawors/JaworAI.git
+cd JaworAI
 ```
 
 2. Install dependencies for frontend and backend:
@@ -176,3 +176,11 @@ The application should be available at `http://localhost:3000`.
 
 MIT License © Szymon
 
+#### FEW PHOTOS
+<img width="1847" height="981" alt="a1" src="https://github.com/user-attachments/assets/46a38f22-28c3-44c0-bcd6-0a90b700f4d3" />
+<img width="1863" height="980" alt="a2" src="https://github.com/user-attachments/assets/f44256fe-c20f-416a-a6e6-cef3faf4945f" />
+<img width="1862" height="980" alt="a3" src="https://github.com/user-attachments/assets/e18500a3-2dbc-4931-92b1-28b665a0333d" />
+
+<img width="1867" height="983" alt="a4" src="https://github.com/user-attachments/assets/6d5f8336-8ba8-460f-a6db-c7b46aec766f" />
+
+<img width="1862" height="982" alt="a5" src="https://github.com/user-attachments/assets/4cdcc043-364d-4308-be4a-37c4c38aea28" />
