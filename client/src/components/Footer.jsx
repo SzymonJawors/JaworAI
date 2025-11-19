@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="flex-1 flex items-start md:justify-end gap-20">
           <div>
             <h2 className="font-semibold mb-5 text-gray-800">
-              Company
+              JaworAI
             </h2>
             <ul className="text-sm space-y-2">
               <li>
